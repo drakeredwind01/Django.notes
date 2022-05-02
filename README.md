@@ -4,8 +4,8 @@ everything I need to remember (I hope)
 
 
 - [is Django installed and which version](#You can tell Django is installed)
-- [is Django installed and which version](#test-1)
-- [index name](#you-can-tell-Django-is-installd-and-which-version-by-running-the-following-command-in-a-shell-prompt)
+- [is Django installed and which version](#you-can-tell-Django-is-installd-and-which-version-by-running-the-following-command-in-a-shell-prompt)
+- [index name](#look for this)
 - [index name](#look for this)
 - [index name](#look for this)
 
